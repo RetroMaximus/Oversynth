@@ -2,7 +2,6 @@
 OverSynth will be a synthesizer sequencer VST used to to create synth sounds developed in Puredata 0.51.4 - *Currently WIP*
 
 Written by: Reg Finley aka RetroMaximus aka ReggieBeRetro aka Scr1ptAl14s
-reggieretro@gmail.com
 
 Externals used:
 
