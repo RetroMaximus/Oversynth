@@ -26,6 +26,6 @@ I could not have finished this without your help.
 **Attention** 
 OverSynth 0.1.2 Alpha Release - Oversynth-0-1-2-alpha.zip
 
-Major update to the patch browser using the new [file] object inpreperation for the new Puredata 0.52.0 release
+Major update to the patch browser using the new [file] object in preperation for the new Puredata 0.52.0 release
 The patch browser is fully functional. :)
 
