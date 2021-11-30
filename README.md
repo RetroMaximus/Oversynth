@@ -1,5 +1,5 @@
 # Oversynth
-OverSynth will be a ployphonic synth/sequencer VST used to to create synth sounds developed in Puredata 0.51.4 - *Currently WIP*
+OverSynth will be a ployphonic synth/sequencer VST used to to create synth sounds developed in Puredata 0.52.0 - *Currently WIP*
 
 Written by: Reg Finley aka RetroMaximus aka ReggieBeRetro aka Scr1ptAl14s
 
@@ -28,4 +28,7 @@ OverSynth 0.1.2 Alpha Release - Oversynth-0-1-2-alpha.zip
 
 Major update to the patch browser using the new [file] object in preperation for the new Puredata 0.52.0 release
 The patch browser is fully functional. :)
+
+Note!!!
+Puredata 0.52.0 is require to run Oversynth
 
